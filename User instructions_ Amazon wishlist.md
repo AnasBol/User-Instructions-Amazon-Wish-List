@@ -72,7 +72,7 @@ your list.
 -  To set the quantity and priority of an item, select **Add comment, quantity & priority**. You can also add a comment about a particular item.
 
    <table><tr><td>
-   <img src="Google Docs 5.png" alt="Edit items" width= "300" >
+   <img src="Google Docs 5.png" alt="Edit items" width= "200" >
    </td></tr></table>
 
 ## Search, filter, and sort your list
