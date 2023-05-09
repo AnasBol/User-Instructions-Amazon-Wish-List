@@ -91,7 +91,9 @@ parameter.
 
  1. On your Amazon home page, hover over **Accounts & Lists**. 
  2. In the **Your Lists** menu, click **Find a List or Registry**.
+
     <table><tr><td>
    <img src="Google Docs 7.png" alt="Find list" width= "350" >
    </td></tr></table>
- 4. Type in the registrant's name in the search field.
+   
+ 3. Type in the registrant's name in the search field.
