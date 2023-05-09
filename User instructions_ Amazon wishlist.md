@@ -66,27 +66,25 @@ your list.
 |     **Keep purchased items on the list**    |     Select if you don’t want items to   be automatically removed from the list.                                                                                      |
 |     **Don’t spoil my surprises**            |     Select if you want items that   someone bought for you to remain on the list. If you try to buy an item   someone already got you, Amazon will let you know.     |
 |     **Delete list**                         |     Remove the list if it’s no longer   needed.                                                                                                                      |
-3. Click Save Changes.
+3. Click **Save Changes**.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Edit items on your list
+## Edit items on your list
 
-\* To purchase an item, select Add to Cart. \* To remove an item from
-the list, select Delete. \* To move an item to a different list, select
-Move and choose the necessary list in the drop-down menu. \* To set the
-quantity and priority of an item, select Add comment, quantity &
-priority. You can also add a comment about a particular item.
+- To purchase an item, select Add to Cart.
+-  To remove an item from the list, select **Delete**. 
+-  To move an item to a different list, select **Move** and choose the necessary list in the drop-down menu.
+-  To set the quantity and priority of an item, select **Add comment, quantity & priority**. You can also add a comment about a particular item.
 
-Search, filter, and sort your list
+## Search, filter, and sort your list
 
-\* To search for an item, use the Search this list field. \* To filter
-the list, select Unpurchased, Purchased, or All items in the Filter &
-Sort drop-down menu. \* To sort the list by priority or price, click
-Sorts in the Filter & Sort drop-down menu and choose the desired
+- To search for an item, use the Search this list field.
+- To filter the list, select **Unpurchased**, **Purchased**, or **All items** in the **Filter &
+Sort** drop-down menu. 
+- To sort the list by priority or price, click **Sorts** in the **Filter & Sort** drop-down menu and choose the desired
 parameter.
 
-Find someone else's list
+## Find someone else's list
 
- 1. On your Amazon home page, hover over Accounts & Lists. 2. In the
-Your Lists menu, click Find a List or Registry.
-
-3. Type in the registrant's name in the search field.
+ 1. On your Amazon home page, hover over Accounts & Lists. 
+ 2. In the Your Lists menu, click Find a List or Registry.
+ 3. Type in the registrant's name in the search field.
