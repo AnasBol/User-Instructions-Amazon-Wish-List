@@ -11,7 +11,7 @@ such, so you won't receive multiples.
 2. In theYour **Lists menu**, click **Create a List**.
 
 <table><tr><td>
-   <img src="Google Docs1.jpg" alt="Create a List "width= "350" hspace="10" >
+   <img src="Google Docs1.jpg" alt="Create a List "width= "350" >
 </td></tr></table>
 
 3. In the **Create a new list** dialog, name your list and click **Create
