@@ -10,7 +10,8 @@ such, so you won't receive multiples.
 1. On your Amazon home page, hover over **Accounts & Lists**. 
 2. In theYour **Lists menu**, click **Create a List**.
  
-  <img style='border:2px solid #000000' src="" ![Google Docs1](https://github.com/Penguin-The-Great/User-Instructions-Amazon-Wish-List/assets/109430722/afbf29ae-e9b4-49bc-b35f-c5a751fb89e7)
+  <img style='border:2px solid #000000' src="![Create a List](https://github.com/Penguin-The-Great/User-Instructions-Amazon-Wish-List/assets/109430722/7bcae3eb-9859-4a88-91ce-4d39623a123f)
+" 
 alt="Create a List " width= "370">
  
 3. In the **Create a new list** dialog, name your list and click **Create
