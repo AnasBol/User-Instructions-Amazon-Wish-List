@@ -29,10 +29,6 @@ select an existing list or create a new one.
    </td></tr></table>
 
 The item is added to the selected list.
-
-<table><tr><td>
-<img src="Google Docs 3.png" alt="Item added to list"width= "700" >
-</td></tr></table>
  
 ## Share your list
 
