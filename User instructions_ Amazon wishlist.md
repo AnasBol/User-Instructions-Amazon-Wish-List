@@ -21,16 +21,19 @@ select an existing list or create a new one.
 
 The item is added to the selected list.
 
-Share your list
+## Share your list
 
-1\. Open your list and click Invite or Share list with others.
+1. Open your list and click **Invite** or **Share list with others**.
 
-2\. Select VIEW ONLY if you don't want other people to edit your list,
-or VIEW AND EDIT if you would like others to add and remove items from
-your list. 3. Select Copy link or Invite by email to share your list.
+2. Select **VIEW ONLY** if you don't want other people to edit your list,
+or **VIEW AND EDIT** if you would like others to add and remove items from
+your list. 
+3. Select **Copy link** or **Invite by email** to share your list.
 
-Manage your list  1. Open your list and select More \> Manage list. 2.
-Specify the following parameters:
+## Manage your list  
+
+1. Open your list and select **More > Manage list**. 
+2. Specify the following parameters:
 
 List name Edit the name of your list. Privacy Set the privacy status to
 Public, Shared, or Private. Manage list with Alexa Choose if items can
