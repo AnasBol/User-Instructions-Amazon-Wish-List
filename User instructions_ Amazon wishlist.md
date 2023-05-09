@@ -5,7 +5,7 @@ You can also use lists as a gift registry to share with family and
 friends. Once an item on the list is purchased, this item is labeled as
 such, so you won't receive multiples.
 
-Create a list
+## Create a list
 
 1\. On your Amazon home page, hover over Accounts & Lists. 2. In the
 Your Lists menu, click Create a List.
