@@ -83,6 +83,10 @@ Sort** drop-down menu.
 - To sort the list by priority or price, click **Sorts** in the **Filter & Sort** drop-down menu and choose the desired
 parameter.
 
+   <table><tr><td>
+   <img src="Google Docs 5.png" alt="Search, filter, sort" width= "350" >
+   </td></tr></table>
+
 ## Find someone else's list
 
  1. On your Amazon home page, hover over Accounts & Lists. 
