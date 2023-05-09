@@ -77,7 +77,7 @@ your list.
 
 ## Search, filter, and sort your list
 
-- To search for an item, use the Search this list field.
+- To search for an item, use the **Search this list** field.
 - To filter the list, select **Unpurchased**, **Purchased**, or **All items** in the **Filter &
 Sort** drop-down menu. 
 - To sort the list by priority or price, click **Sorts** in the **Filter & Sort** drop-down menu and choose the desired
