@@ -30,6 +30,8 @@ select an existing list or create a new one.
 
 The item is added to the selected list.
 
+<img src="Google Docs 3.png" alt="Create a List "width= "500" >
+
 ## Share your list
 
 1. Open your list and click **Invite** or **Share list with others**.
