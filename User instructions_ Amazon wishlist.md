@@ -66,7 +66,7 @@ your list.
 
 ## Edit items on your list
 
-- To purchase an item, select Add to Cart.
+- To purchase an item, select **Add to Cart**.
 -  To remove an item from the list, select **Delete**. 
 -  To move an item to a different list, select **Move** and choose the necessary list in the drop-down menu.
 -  To set the quantity and priority of an item, select **Add comment, quantity & priority**. You can also add a comment about a particular item.
