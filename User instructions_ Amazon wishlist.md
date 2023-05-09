@@ -52,8 +52,9 @@ your list.
 1. Open your list and select **More > Manage list**. 
 2. Specify the following parameters:
 
-|     List name                           |     Edit the name of   your list.                                                                                                                                    |
+| Name                                    | Function                                                                                                                                                             |
 |-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     List name                           |     Edit the name of   your list.                                                                                                                                    |
 |     Privacy                             |     Set the privacy status to Public, Shared, or Private.                                                                                                            |
 |     Manage list with Alexa              |     Choose if items can be added to   your list through Alexa.                                                                                                       |
 |     List is for                         |     Choose if the list is for you or   for an organization.                                                                                                          |
@@ -65,7 +66,6 @@ your list.
 |     Keep purchased items on the list    |     Select if you don’t want items to   be automatically removed from the list.                                                                                      |
 |     Don’t spoil my surprises            |     Select if you want items that   someone bought for you to remain on the list. If you try to buy an item   someone already got you, Amazon will let you know.     |
 |     Delete list                         |     Remove the list if it’s no longer   needed.                                                                                                                      |
-
 3. Click Save Changes.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Edit items on your list
