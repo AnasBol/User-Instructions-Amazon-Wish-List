@@ -7,11 +7,10 @@ such, so you won't receive multiples.
 
 ## Create a list
 
-1\. On your Amazon home page, hover over Accounts & Lists. 2. In the
-Your Lists menu, click Create a List.
-
-3\. In the Create a new list dialog, name your list and click Create
-list.
+1. On your Amazon home page, hover over **Accounts & Lists**. 
+2. In theYour **Lists menu**, click **Create a List**.
+3. In the **Create a new list** dialog, name your list and click **Create
+list**.
 
 Add items to your list
 
