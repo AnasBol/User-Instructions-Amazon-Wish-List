@@ -10,9 +10,7 @@ such, so you won't receive multiples.
 1. On your Amazon home page, hover over **Accounts & Lists**. 
 2. In theYour **Lists menu**, click **Create a List**.
  
-  <img style='border:2px solid #000000' src="![Create a List](Google Docs1.jpg)
-" 
-alt="Create a List " width= "370">
+  <img src="Google Docs1.jpg" alt="Create a List" style="border: 2px solid black" />
  
 3. In the **Create a new list** dialog, name your list and click **Create
 list**.
