@@ -48,7 +48,7 @@ your list.
 1. Open your list and select **More > Manage list**. 
 2. Specify the following parameters:
 
-| Name                                    | Function                                                                                                                                                             |
+   | Name                                    | Function                                                                                                                                                             |
 |:-----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     **List name**                           |     Edit the name of   your list.                                                                                                                                    |
 |     **Privacy**                             |     Set the privacy status to **Public**, **Shared**, or **Private**.                                                                                                            |
