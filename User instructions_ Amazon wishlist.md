@@ -31,12 +31,16 @@ select an existing list or create a new one.
 The item is added to the selected list.
 
 <table><tr><td>
-<img src="Google Docs 3.png" alt="Create a List "width= "700" >
+<img src="Google Docs 3.png" alt="Item added to list"width= "700" >
 </td></tr></table>
  
 ## Share your list
 
 1. Open your list and click **Invite** or **Share list with others**.
+
+   <table><tr><td>
+   <img src="Google Docs 4.png" alt="Share list" width= "350" >
+   </td></tr></table>
 
 2. Select **VIEW ONLY** if you don't want other people to edit your list,
 or **VIEW AND EDIT** if you would like others to add and remove items from
