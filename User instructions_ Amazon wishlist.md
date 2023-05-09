@@ -32,7 +32,7 @@ The item is added to the selected list.
  
 ## Share your list
 
-1. Open your list and click **Invite** or **Share list with others**.
+1. Open your list and click **Invite** or **Send list to others**.
 
    <table><tr><td>
    <img src="Google Docs 4.png" alt="Share list" width= "700" >
