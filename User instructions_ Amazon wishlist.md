@@ -54,18 +54,18 @@ your list.
 
 | Name                                    | Function                                                                                                                                                             |
 |-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     List name                           |     Edit the name of   your list.                                                                                                                                    |
-|     Privacy                             |     Set the privacy status to Public, Shared, or Private.                                                                                                            |
-|     Manage list with Alexa              |     Choose if items can be added to   your list through Alexa.                                                                                                       |
-|     List is for                         |     Choose if the list is for you or   for an organization.                                                                                                          |
-|     Recipient                           |     Type in the name of the   recipient. Your name is used by default.                                                                                               |
-|     Email                               |     Type in the recipient’s email.                                                                                                                                   |
-|     Birthday                            |     Select the recipient’s birthday   in the drop-down menus.                                                                                                        |
-|     Description                         |     Briefly describe the purpose of   the list and/or provide some information about the recipient.                                                                  |
-|     Shipping Address                    |     Either select your existing   shipping address in the drop-down menu or create a new address.                                                                    |
-|     Keep purchased items on the list    |     Select if you don’t want items to   be automatically removed from the list.                                                                                      |
-|     Don’t spoil my surprises            |     Select if you want items that   someone bought for you to remain on the list. If you try to buy an item   someone already got you, Amazon will let you know.     |
-|     Delete list                         |     Remove the list if it’s no longer   needed.                                                                                                                      |
+|     **List name**                           |     Edit the name of   your list.                                                                                                                                    |
+|     **Privacy**                             |     Set the privacy status to Public, Shared, or Private.                                                                                                            |
+|     **Manage list with Alexa**              |     Choose if items can be added to   your list through Alexa.                                                                                                       |
+|     **List is for**                         |     Choose if the list is for you or   for an organization.                                                                                                          |
+|     **Recipient**                           |     Type in the name of the   recipient. Your name is used by default.                                                                                               |
+|     **Email**                               |     Type in the recipient’s email.                                                                                                                                   |
+|     **Birthday**                            |     Select the recipient’s birthday   in the drop-down menus.                                                                                                        |
+|     **Description**                         |     Briefly describe the purpose of   the list and/or provide some information about the recipient.                                                                  |
+|     **Shipping Address**                    |     Either select your existing   shipping address in the drop-down menu or create a new address.                                                                    |
+|     **Keep purchased items on the list**    |     Select if you don’t want items to   be automatically removed from the list.                                                                                      |
+|     **Don’t spoil my surprises**            |     Select if you want items that   someone bought for you to remain on the list. If you try to buy an item   someone already got you, Amazon will let you know.     |
+|     **Delete list**                         |     Remove the list if it’s no longer   needed.                                                                                                                      |
 3. Click Save Changes.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Edit items on your list
