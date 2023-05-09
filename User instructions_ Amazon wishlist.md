@@ -96,4 +96,4 @@ parameter.
    <img src="Google Docs 7.png" alt="Find list" width= "350" >
    </td></tr></table>
    
- 3. Type in the registrant's name in the search field.
+3. Type in the registrant's name in the search field.
