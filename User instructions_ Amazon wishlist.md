@@ -31,7 +31,7 @@ select an existing list or create a new one.
 The item is added to the selected list.
 
 <table><tr><td>
-<img src="Google Docs 3.png" alt="Create a List "width= "500" >
+<img src="Google Docs 3.png" alt="Create a List "width= "800" >
 </td></tr></table>
  
 ## Share your list
