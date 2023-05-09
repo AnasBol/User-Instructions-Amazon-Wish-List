@@ -84,7 +84,7 @@ Sort** drop-down menu.
 parameter.
 
    <table><tr><td>
-   <img src="Google Docs 5.png" alt="Search, filter, sort" width= "350" >
+   <img src="Google Docs 6.png" alt="Search, filter, sort" width= "350" >
    </td></tr></table>
 
 ## Find someone else's list
