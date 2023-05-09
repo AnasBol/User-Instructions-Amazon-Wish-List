@@ -10,9 +10,9 @@ such, so you won't receive multiples.
 1. On your Amazon home page, hover over **Accounts & Lists**. 
 2. In theYour **Lists menu**, click **Create a List**.
 
-<table><tr><td>
+   <table><tr><td>
    <img src="Google Docs1.jpg" alt="Create a List "width= "350" >
-</td></tr></table>
+   </td></tr></table>
 
 3. In the **Create a new list** dialog, name your list and click **Create
 list**.
@@ -25,7 +25,7 @@ You can add items to your list from a product page.
 select an existing list or create a new one.
    
    <table><tr><td>
-   <img src="Google Docs 2.png" alt="Add to list" width= "350">
+   <img src="Google Docs 2.png" alt="Add to list" width= "200">
    </td></tr></table>
 
 The item is added to the selected list.
