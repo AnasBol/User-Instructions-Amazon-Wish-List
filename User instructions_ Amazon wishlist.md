@@ -8,7 +8,7 @@ such, so you won't receive multiples.
 ## Create a list
 
 1. On your Amazon home page, hover over **Accounts & Lists**. 
-2. In theYour **Lists menu**, click **Create a List**.
+2. In the **Your Lists** menu, click **Create a List**.
 
    <table><tr><td>
    <img src="Google Docs1.jpg" alt="Create a List "width= "350" >
