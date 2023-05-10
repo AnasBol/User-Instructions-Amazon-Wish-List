@@ -11,7 +11,7 @@ such, so you won't receive multiples.
 2. In the **Your Lists** menu, click **Create a List**.
 
    <table><tr><td>
-   <img src="create-list.png" alt="Create a List "width= "350" >
+   <img src="images/create-list.png" alt="Create a List "width= "350" >
    </td></tr></table>
 
 3. In the **Create a new list** dialog, name your list and click **Create
@@ -25,7 +25,7 @@ You can add items to your list from a product page.
 select an existing list or create a new one.
    
    <table><tr><td>
-   <img src="add-to-list.png" alt="Add to list" width= "200">
+   <img src="images/add-to-list.png" alt="Add to list" width= "200">
    </td></tr></table>
 
 The item is added to the selected list.
@@ -35,7 +35,7 @@ The item is added to the selected list.
 1. Open your list and click **Invite** or **Send list to others**.
 
    <table><tr><td>
-   <img src="share-list.png" alt="Share list" width= "700" >
+   <img src="images/share-list.png" alt="Share list" width= "700" >
    </td></tr></table>
 
 2. Select **VIEW ONLY** if you don't want other people to edit your list,
@@ -72,7 +72,7 @@ your list.
 -  To set the quantity and priority of an item, select **Add comment, quantity & priority**. You can also add a comment about a particular item.
 
    <table><tr><td>
-   <img src="edit-item.png" alt="Edit items" width= "200" >
+   <img src="images/edit-item.png" alt="Edit items" width= "200" >
    </td></tr></table>
 
 ## Search, filter, and sort your list
@@ -84,7 +84,7 @@ Sort** drop-down menu.
 parameter.
 
    <table><tr><td>
-   <img src="search-filter-sort.png" alt="Search, filter, sort" width= "350" >
+   <img src="images/search-filter-sort.png" alt="Search, filter, sort" width= "350" >
    </td></tr></table>
 
 ## Find someone else's list
@@ -93,7 +93,7 @@ parameter.
  2. In the **Your Lists** menu, click **Find a List or Registry**.  
    
       <table><tr><td>
-      <img src="find-list.png" alt="Find list" width= "350" >
+      <img src="images/find-list.png" alt="Find list" width= "350" >
        </td></tr></table>
    
  3. Type in the registrant's name in the search field.
