@@ -46,6 +46,8 @@ The item is added to the selected list.
       <table><tr><td>
    <img src="images/share-list.png" alt="Share list" width= "700" >
    </td></tr></table>
+   
+   
 4. Set access options: 
 
    - Select **VIEW ONLY** if you don't want other people to edit your list.
