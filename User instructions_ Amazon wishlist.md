@@ -24,8 +24,8 @@ list**.
 ## Add items to your list
 
 On the product page, open the **Add to list** drop-down menu and do one of the folliwng:
-   - select an existing list
-   - create a new one.
+   - Select an existing list.
+   - Create a new list.
    
    <table><tr><td>
    <img src="images/add-to-list.png" alt="Add to list" width= "200">
