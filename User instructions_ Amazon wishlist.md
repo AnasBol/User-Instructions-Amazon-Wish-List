@@ -49,7 +49,9 @@ The item is added to the selected list.
 - Select **VIEW AND EDIT** if you would like others to add and remove items from
 your list. 
 
-5. Select **Copy link** or **Invite by email** to share your list.
+5. To share your list select one of the following:
+- **Copy link** 
+- **Invite by email**
 
 ## Manage your list  
 
