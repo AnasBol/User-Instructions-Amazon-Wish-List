@@ -13,10 +13,14 @@ such, so you won't receive multiples.
    <table><tr><td>
    <img src="images/create-list.png" alt="Create a List "width= "350" >
    </td></tr></table>
-
+   
 3. In the **Create a new list** dialog, name your list and click **Create
 list**.
 
+   <table><tr><td>
+   <img src="images/create-list-dialog.png" alt="Create a List "width= "250" >
+   </td></tr></table>
+   
 ## Add items to your list
 
 You can add items to your list from a product page.
