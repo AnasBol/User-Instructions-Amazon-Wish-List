@@ -23,8 +23,6 @@ list**.
    
 ## Add items to your list
 
-You can add items to your list from a product page.
-
 On the product page, open the **Add to list** drop-down menu and do one of the folliwng:
    - select an existing list
    - create a new one.
