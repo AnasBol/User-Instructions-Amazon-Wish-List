@@ -53,7 +53,7 @@ The item is added to the selected list.
    - Select **VIEW AND EDIT** if you would like others to add and remove items from
 your list. 
 
-5. To share your list select one of the following:
+5. Select one of the sharing options:
    - **Copy link** 
    - **Invite by email**
 
