@@ -41,12 +41,13 @@ The item is added to the selected list.
       <table><tr><td>
       <img src="images/share-list.png" alt="Share list" width= "700" >
       </td></tr></table>
-
-
 4. In the **Invite others to your list** dialog, select one of the following: 
    - **VIEW ONLY** if you don't want other people to edit your list.
    - **VIEW AND EDIT** if you would like others to add and remove items from
 your list. 
+   <table><tr><td>
+      <img src="images/invite-others.png" alt="Share list" width= "200" >
+      </td></tr></table>
 5. Select one of the sharing options:
    - **Copy link** 
    - **Invite by email**
