@@ -45,10 +45,9 @@ The item is added to the selected list.
    - **VIEW ONLY** if you don't want other people to edit your list.
    - **VIEW AND EDIT** if you would like others to add and remove items from
 your list. 
-
    <table><tr><td>
-      <img src="images/invite-others.png" alt="Share list" width= "250" >
-      </td></tr></table>
+   <img src="images/invite-others.png" alt="Share list" width= "250" >
+   </td></tr></table>
       
 5. Select one of the sharing options:
    - **Copy link** 
