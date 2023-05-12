@@ -48,6 +48,14 @@ The item is added to the selected list.
    </td></tr></table>
 
 
+4. Set access options: 
+   - Select **VIEW ONLY** if you don't want other people to edit your list.
+   - Select **VIEW AND EDIT** if you would like others to add and remove items from
+your list. 
+5. Select one of the sharing options:
+   - **Copy link** 
+   - **Invite by email**
+
 
 ## Manage your list  
 
