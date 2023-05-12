@@ -43,10 +43,13 @@ The item is added to the selected list.
 <img src="images/share-list.png" alt="Share list" width= "700" >
 </td></tr></table>
 
-2. Select **VIEW ONLY** if you don't want other people to edit your list,
-or **VIEW AND EDIT** if you would like others to add and remove items from
+4. Set the settings: 
+
+- Select **VIEW ONLY** if you don't want other people to edit your list.
+- Select **VIEW AND EDIT** if you would like others to add and remove items from
 your list. 
-3. Select **Copy link** or **Invite by email** to share your list.
+
+5. Select **Copy link** or **Invite by email** to share your list.
 
 ## Manage your list  
 
