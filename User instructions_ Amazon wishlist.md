@@ -39,6 +39,7 @@ The item is added to the selected list.
    - **Invite**
    - **Send list to others**
 
+
    <table><tr><td>
    <img src="images/share-list.png" alt="Share list" width= "700" >
    </td></tr></table>
