@@ -18,7 +18,7 @@ such, so you won't receive multiples.
 list**.
 
    <table><tr><td>
-   <img src="images/create-dialog.png" alt="Create a List "width= "200" >
+   <img src="images/create-dialog.png" alt="Create a List "width= "250" >
    </td></tr></table>
    
 ## Add items to your list
