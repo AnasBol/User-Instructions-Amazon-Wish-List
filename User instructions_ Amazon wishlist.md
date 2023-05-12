@@ -45,13 +45,13 @@ The item is added to the selected list.
 
 4. Set the settings: 
 
-- Select **VIEW ONLY** if you don't want other people to edit your list.
-- Select **VIEW AND EDIT** if you would like others to add and remove items from
+   - Select **VIEW ONLY** if you don't want other people to edit your list.
+   - Select **VIEW AND EDIT** if you would like others to add and remove items from
 your list. 
 
 5. To share your list select one of the following:
-- **Copy link** 
-- **Invite by email**
+   - **Copy link** 
+   - **Invite by email**
 
 ## Manage your list  
 
