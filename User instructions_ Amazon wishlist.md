@@ -47,7 +47,7 @@ The item is added to the selected list.
    <img src="images/share-list.png" alt="Share list" width= "700" >
    </td></tr></table>
 
-4. Set the settings: 
+4. Set access options: 
 
    - Select **VIEW ONLY** if you don't want other people to edit your list.
    - Select **VIEW AND EDIT** if you would like others to add and remove items from
