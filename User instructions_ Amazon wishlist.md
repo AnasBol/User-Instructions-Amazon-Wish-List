@@ -38,6 +38,7 @@ The item is added to the selected list.
 1.	On your Amazon home page, hover over **Accounts & Lists**. 
 2.	In the **Your Lists** menu, select the necessary list.
 3. To share the list, select **Invite** or **Send list to others**.
+      
       <table><tr><td>
       <img src="images/share-list.png" alt="Share list" width= "700" >
       </td></tr></table>
