@@ -89,8 +89,8 @@ your list.
 - To filter the list, in the **Filter &
 Sort** drop-down menu select obe of the following:
    - **Unpurchased** 
-- **Purchased**
-- **All items** 
+   - **Purchased**
+   - **All items** 
 
 
 - To sort the list by priority or price, click **Sorts** in the **Filter & Sort** drop-down menu and choose the desired
