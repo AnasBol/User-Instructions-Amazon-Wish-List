@@ -13,16 +13,19 @@ such, so you won't receive multiples.
    <table><tr><td>
    <img src="images/create-list.png" alt="Create a List "width= "350" >
    </td></tr></table>
-
+   
 3. In the **Create a new list** dialog, name your list and click **Create
 list**.
 
+   <table><tr><td>
+   <img src="images/create-dialog.png" alt="Create a List "width= "300" >
+   </td></tr></table>
+   
 ## Add items to your list
 
-You can add items to your list from a product page.
-
-- In the **Add to list** drop-down menu on the left of the product page,
-select an existing list or create a new one.
+On the product page, open the **Add to list** drop-down menu and do one of the folliwng:
+   - Select an existing list.
+   - Select **Create a List** to start a new list.
    
    <table><tr><td>
    <img src="images/add-to-list.png" alt="Add to list" width= "200">
@@ -32,16 +35,21 @@ The item is added to the selected list.
  
 ## Share your list
 
-1. Open your list and click **Invite** or **Send list to others**.
+1.	On your Amazon home page, hover over **Accounts & Lists**. 
+2.	In the **Your Lists** menu, select the necessary list.
+3. To share the list, select **Invite** or **Send list to others**.
+      
+      <table><tr><td>
+      <img src="images/share-list.png" alt="Share list" width= "700" >
+      </td></tr></table>
+4. In the **Invite others to your list** dialog, select one of the following: 
+   - **VIEW ONLY** if you don't want other people to edit your list.
+   - **VIEW AND EDIT** if you would like others to add and remove items from
+your list.       
+5. Select one of the sharing options:
+   - **Copy link** 
+   - **Invite by email**
 
-   <table><tr><td>
-   <img src="images/share-list.png" alt="Share list" width= "700" >
-   </td></tr></table>
-
-2. Select **VIEW ONLY** if you don't want other people to edit your list,
-or **VIEW AND EDIT** if you would like others to add and remove items from
-your list. 
-3. Select **Copy link** or **Invite by email** to share your list.
 
 ## Manage your list  
 
@@ -78,8 +86,13 @@ your list.
 ## Search, filter, and sort your list
 
 - To search for an item, use the **Search this list** field.
-- To filter the list, select **Unpurchased**, **Purchased**, or **All items** in the **Filter &
-Sort** drop-down menu. 
+- To filter the list, in the **Filter &
+Sort** drop-down menu select one of the following:
+   - **Unpurchased** 
+   - **Purchased**
+   - **All items** 
+
+
 - To sort the list by priority or price, click **Sorts** in the **Filter & Sort** drop-down menu and choose the desired
 parameter.
 
