@@ -11,7 +11,7 @@ such, so you won't receive multiples.
 2. In the **Your Lists** menu, click **Create a List**.
 
    <table><tr><td>
-   <img src="images/create-list.png" alt="Create a List "width= "350" >
+   <img src=".images/create-list.png" alt="Create a List "width= "350" >
    </td></tr></table>
    
 3. In the **Create a new list** dialog, name your list and click **Create
