@@ -46,9 +46,9 @@ The item is added to the selected list.
    - **VIEW ONLY** if you don't want other people to edit your list.
    - **VIEW AND EDIT** if you would like others to add and remove items from
 your list.       
-5. Select one of the sharing options:
-   - **Copy link** 
-   - **Invite by email**
+5. Choose the sharing option:
+   - To share the list through the link, select **Copy link**. 
+   - To shrae the list through your default email client, select **Invite by email**.
 
 
 ## Manage your list  
