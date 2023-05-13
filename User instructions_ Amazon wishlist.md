@@ -87,7 +87,7 @@ your list.
 
 - To search for an item, use the **Search this list** field.
 - To filter the list, in the **Filter &
-Sort** drop-down menu select obe of the following:
+Sort** drop-down menu select one of the following:
    - **Unpurchased** 
    - **Purchased**
    - **All items** 
