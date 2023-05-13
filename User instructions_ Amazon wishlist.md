@@ -48,7 +48,7 @@ The item is added to the selected list.
 your list.       
 5. Choose the sharing option:
    - To share the list through the link, select **Copy link**. 
-   - To shrae the list through your default email client, select **Invite by email**.
+   - To share the list through your default email client, select **Invite by email**.
 
 
 ## Manage your list  
