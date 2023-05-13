@@ -59,7 +59,10 @@ your list.
    | Name                                    | Function                                                                                                                                                             |
    |:-----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
    |     **List name**                           |     Edit the name of   your list.                                                                                                                                    |
-   |     **Privacy**                             |     Set the privacy status to **Public**, **Shared**, or **Private**.                                                                                                            |
+   |     **Privacy**                             |     Set the privacy status: 
+   - **Public** 
+   - **Shared** 
+   - **Private**                                                                                                            |
    |     **Manage list with Alexa**              |     Choose if items can be added to   your list through Alexa.                                                                                                       |
    |     **List is for**                         |     Choose if the list is for you or   for an organization.                                                                                                          |
    |     **Recipient**                           |     Type in the name of the   recipient. Your name is used by default.                                                                                               |
