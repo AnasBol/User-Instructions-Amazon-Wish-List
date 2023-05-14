@@ -1,6 +1,6 @@
 # Amazon wish lists
 
-Amazon wish lists allow you to keep track of the items you wish to buy.
+Amazon wish lists allow you to keep track of the items you want to buy.
 You can also use lists as a gift registry to share with family and
 friends. Once an item on the list is purchased, this item is labeled as
 such, so you won't receive multiples.
